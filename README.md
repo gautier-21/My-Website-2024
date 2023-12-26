@@ -25,4 +25,3 @@
 - 🦾 TypeScript, of course.
 
 - 📲 [PWA](https://github.com/vite-pwa/nuxt) with offline support and auto-update behavior.
-
